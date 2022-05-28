@@ -1,0 +1,13 @@
+.appBarMain{
+    background-color: whitesmoke !important;
+    color: black !important;
+}
+.AddCard{
+    display: inline-block;
+    position: relative
+}
+
+.cardText{
+    position: absolute;
+    right: 1px
+}
